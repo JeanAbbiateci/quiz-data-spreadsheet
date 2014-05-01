@@ -1,4 +1,4 @@
-quiz-data-spreadsheet
+Modèle de quiz avec Google Doc comme CMS
 =====================
 
 
